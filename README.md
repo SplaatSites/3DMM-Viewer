@@ -1,1 +1,1 @@
-![3DMM Viewer](https://raw.githubusercontent.com/SplaatSites/3DMM-Viewer/blob/main/3dmmvlogo.png?raw=true)
+![3DMM Viewer](https://raw.githubusercontent.com/SplaatSites/3DMM-Viewer/refs/heads/main/3dmmvlogo.png)
