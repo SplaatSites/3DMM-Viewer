@@ -1,1 +1,4 @@
-#include <SDL2/SDL2.h>
+#include <SDL.h>
+#include <SDL_ttf.h>
+#include <SDL_mixer.h>
+
